@@ -8,7 +8,8 @@ In particular we are investigating under which specific conditions lightning cou
 <ul>
   <li><b>2017</b> Bachelor at the University of Cologne </li>
   <li><b>2020</b> Master at the University of Cologne </li>
-  <li><b>2020 - 2024</b> PhD at TU Graz and University of Copenhagen</li>
+  <li><b>2024</b> PhD at TU Graz and University of Copenhagen</li>
+  <li><b>2024-2026</b> Postdoc at University of Copenhagen, NBI, CELS </li>
 </ul>  
 <h2>Publications</h2>
 <div width=750px height=300px>
